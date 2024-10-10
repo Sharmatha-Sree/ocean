@@ -1,1 +1,2 @@
 hello world
+a = int("Enter a new string:")
